@@ -1,4 +1,4 @@
-
+![combined_image](https://github.com/user-attachments/assets/d714dcdc-0733-464b-b8d1-aedbdcee01a9)
 
 ## 🍜 About kosakae256
 Backend, Frontend, DeepLearning, Server, Anything!
@@ -15,7 +15,7 @@ Backend, Frontend, DeepLearning, Server, Anything!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kosakae256)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Links
+## 📕 Links
 [Twitter](https://x.com/kosaka256)
 
 [Qiita](https://qiita.com//users/kosakae256)
